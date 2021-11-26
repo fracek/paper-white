@@ -1,0 +1,21 @@
+{
+    "name": "paper-white",
+    "displayName": "Paper White",
+    "description": "Minimal black on white theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Paper White",
+                "uiTheme": "vs",
+                "path": "./themes/paper-white-color-theme.json"
+            }
+        ]
+    }
+}
