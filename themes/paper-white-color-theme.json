@@ -6,6 +6,12 @@
 		"activityBar.inactiveForeground": "#93a1a1",
 		"activityBar.foreground": "#fdf6e3",
 
+		"focusBorder": "#6c71c4",
+		"button.background": "#6c71c4",
+		"textLink.foreground": "#6c71c4",
+		"badge.background": "#6c71c4",
+		"badge.foreground": "#fff",
+
 		"editor.background": "#fff",
 		"editor.foreground": "#002b36",
 		"editor.selectionBackground": "#eee8d5",
@@ -16,16 +22,32 @@
 		"editorLineNumber.activeForeground": "#2aa198",
 		"editorLineNumber.foreground": "#002b36",
 
-		"gitDecoration.addedResourceForeground": "#859900",
-		"gitDecoration.modifiedResourceForeground": "#dc322f",
-		"gitDecoration.deletedResourceForeground": "#2aa198",
-
 		"editorGutter.addedBackground": "#859900",
 		"editorGutter.deletedBackground": "#dc322f",
 		"editorGutter.modifiedBackground": "#2aa198",
 
+		"editorGroupHeader.tabsBackground": "#fff",
+		"tab.activeBackground": "#fff",
+		"tab.activeBorder": "#6c71c4",
+		"tab.inactiveBackground": "#fff",
+		"tab.border": "#fff",
+
+		"gitDecoration.addedResourceForeground": "#859900",
+		"gitDecoration.modifiedResourceForeground": "#dc322f",
+		"gitDecoration.deletedResourceForeground": "#2aa198",
+
+		"sideBar.background": "#fff",
+		"sideBar.border": "#fff",
+		"sideBarSectionHeader.background": "#fff",
+		"list.activeSelectionBackground": "#fdf6e3",
+		"list.activeSelectionForeground": "#002b36",
+		"list.focusOutline": "#fff",
 		"list.warningForeground": "#b58900",
 		"list.errorForeground": "#cb4b16",
+
+		"quickInput.background": "#fff",
+		"quickInput.foreground": "#002b36",
+		"pickerGroup.foreground": "#6c71c4",
 
 		"terminal.background": "#002b36",
 		"terminalCursor.background": "#002b36",
