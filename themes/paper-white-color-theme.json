@@ -3,21 +3,21 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#fff",
-		"editor.foreground": "#505050",
+		"editor.foreground": "#002b36",
 		"editor.selectionBackground": "#eee8d5",
 		"editor.lineHighlightBackground": "#fdf6e3",
 
 		"editorLink.activeForeground": "#268bd2",
 
 		"editorLineNumber.activeForeground": "#2aa198",
-		"editorLineNumber.foreground": "#505050",
+		"editorLineNumber.foreground": "#002b36",
 
 		"editorGutter.addedBackground": "#859900",
 		"editorGutter.deletedBackground": "#dc322f",
 		"editorGutter.modifiedBackground": "#2aa198",
 
-		"terminal.background": "#505050",
-		"terminalCursor.background": "#505050",
+		"terminal.background": "#002b36",
+		"terminalCursor.background": "#002b36",
 		"terminal.foreground": "#fff",
 		"terminalCursor.foreground": "#fff",
 	},
@@ -30,6 +30,15 @@
 			"settings": {
 				"foreground": "#586e75",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"storage.type.dev.natspec"
+			],
+			"settings": {
+				"foreground": "#586e75",
+				"fontStyle": "bold italic"
 			}
 		},
 		{
