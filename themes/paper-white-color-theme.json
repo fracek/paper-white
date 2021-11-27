@@ -49,10 +49,10 @@
 		"quickInput.foreground": "#002b36",
 		"pickerGroup.foreground": "#6c71c4",
 
-		"terminal.background": "#002b36",
 		"terminalCursor.background": "#002b36",
-		"terminal.foreground": "#fff",
+		"terminal.background": "#fff",
 		"terminalCursor.foreground": "#fff",
+		"terminal.foreground": "#002b36"
 	},
 	"tokenColors": [
 		{
