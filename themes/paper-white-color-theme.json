@@ -2,6 +2,10 @@
 	"name": "Paper White",
 	"type": "light",
 	"colors": {
+		"activityBar.background": "#073642",
+		"activityBar.inactiveForeground": "#93a1a1",
+		"activityBar.foreground": "#fdf6e3",
+
 		"editor.background": "#fff",
 		"editor.foreground": "#002b36",
 		"editor.selectionBackground": "#eee8d5",
@@ -12,9 +16,16 @@
 		"editorLineNumber.activeForeground": "#2aa198",
 		"editorLineNumber.foreground": "#002b36",
 
+		"gitDecoration.addedResourceForeground": "#859900",
+		"gitDecoration.modifiedResourceForeground": "#dc322f",
+		"gitDecoration.deletedResourceForeground": "#2aa198",
+
 		"editorGutter.addedBackground": "#859900",
 		"editorGutter.deletedBackground": "#dc322f",
 		"editorGutter.modifiedBackground": "#2aa198",
+
+		"list.warningForeground": "#b58900",
+		"list.errorForeground": "#cb4b16",
 
 		"terminal.background": "#002b36",
 		"terminalCursor.background": "#002b36",
