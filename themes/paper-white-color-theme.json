@@ -45,6 +45,8 @@
 		"list.warningForeground": "#b58900",
 		"list.errorForeground": "#cb4b16",
 
+		"statusBar.background": "#073642",
+
 		"quickInput.background": "#fff",
 		"quickInput.foreground": "#002b36",
 		"pickerGroup.foreground": "#6c71c4",
