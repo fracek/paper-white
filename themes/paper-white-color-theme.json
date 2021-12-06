@@ -33,8 +33,8 @@
 		"tab.border": "#fff",
 
 		"gitDecoration.addedResourceForeground": "#859900",
-		"gitDecoration.modifiedResourceForeground": "#dc322f",
-		"gitDecoration.deletedResourceForeground": "#2aa198",
+		"gitDecoration.modifiedResourceForeground": "#2aa198",
+		"gitDecoration.deletedResourceForeground": "#dc322f",
 
 		"sideBar.background": "#fff",
 		"sideBar.border": "#fff",
