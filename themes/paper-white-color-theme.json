@@ -2,59 +2,62 @@
 	"name": "Paper White",
 	"type": "light",
 	"colors": {
-		"activityBar.background": "#073642",
-		"activityBar.inactiveForeground": "#93a1a1",
-		"activityBar.foreground": "#fdf6e3",
+		"activityBar.background": "#160741",
+		"activityBar.inactiveForeground": "#d4d7ed",
+		"activityBar.foreground": "#fefeff",
 
-		"focusBorder": "#6c71c4",
-		"button.background": "#6c71c4",
-		"textLink.foreground": "#6c71c4",
-		"badge.background": "#6c71c4",
-		"badge.foreground": "#fff",
+		"focusBorder": "#9b45f7",
+		"button.background": "#9b45f7",
+		"textLink.foreground": "#9b45f7",
+		"badge.background": "#9b45f7",
+		"badge.foreground": "#fefeff",
 
-		"editor.background": "#fff",
-		"editor.foreground": "#002b36",
-		"editor.selectionBackground": "#eee8d5",
-		"editor.lineHighlightBackground": "#fdf6e3",
+		"editor.background": "#fefeff",
+		"editor.foreground": "#160741",
+		"editor.selectionBackground": "#e2e4f3",
+		"editor.lineHighlightBackground": "#e2e4f3",
 
-		"editorLink.activeForeground": "#268bd2",
+		"editorLink.activeForeground": "#59c0f8",
 
-		"editorLineNumber.activeForeground": "#2aa198",
-		"editorLineNumber.foreground": "#002b36",
+		"editorLineNumber.activeForeground": "#59c0f8",
+		"editorLineNumber.foreground": "#000338",
 
-		"editorGutter.addedBackground": "#859900",
-		"editorGutter.deletedBackground": "#dc322f",
-		"editorGutter.modifiedBackground": "#2aa198",
+		"editorGutter.addedBackground": "#8af862",
+		"editorGutter.deletedBackground": "#f9718a",
+		"editorGutter.modifiedBackground": "#89d3fa",
 
-		"editorGroupHeader.tabsBackground": "#fff",
-		"tab.activeBackground": "#fff",
-		"tab.activeBorder": "#6c71c4",
-		"tab.inactiveBackground": "#fff",
-		"tab.border": "#fff",
+		"editorGroupHeader.tabsBackground": "#fefeff",
+		"tab.activeBackground": "#fefeff",
+		"tab.activeBorder": "#9b45f7",
+		"tab.inactiveBackground": "#fefeff",
+		"tab.border": "#fefeff",
 
-		"gitDecoration.addedResourceForeground": "#859900",
-		"gitDecoration.modifiedResourceForeground": "#2aa198",
-		"gitDecoration.deletedResourceForeground": "#dc322f",
+		"gitDecoration.addedResourceForeground": "#8af862",
+		"gitDecoration.deletedResourceForeground": "#f9718a",
+		"gitDecoration.modifiedResourceForeground": "#89d3fa",
 
-		"sideBar.background": "#fff",
-		"sideBar.border": "#fff",
-		"sideBarSectionHeader.background": "#fff",
-		"list.activeSelectionBackground": "#fdf6e3",
-		"list.activeSelectionForeground": "#002b36",
-		"list.focusOutline": "#fff",
-		"list.warningForeground": "#b58900",
-		"list.errorForeground": "#cb4b16",
+		"sideBar.background": "#fefeff",
+		"sideBar.border": "#fefeff",
+		"sideBarSectionHeader.background": "#fefeff",
+		"list.activeSelectionBackground": "#e2e4f3",
+		"list.activeSelectionForeground": "#000338",
+		"list.focusOutline": "#fefeff",
+		"list.warningForeground": "#f7c845",
+		"list.errorForeground": "#f74566",
 
-		"statusBar.background": "#073642",
+		"statusBar.background": "#160741",
+		"statusBar.debuggingBackground": "#f78945",
+		"statusBarItem.errorForeground": "#f9718a",
+		"statusBarItem.warningForeground": "#f9d36c",
 
-		"quickInput.background": "#fff",
-		"quickInput.foreground": "#002b36",
-		"pickerGroup.foreground": "#6c71c4",
+		"quickInput.background": "#fefeff",
+		"quickInput.foreground": "#000338",
+		"pickerGroup.foreground": "#9b45f7",
 
-		"terminalCursor.background": "#002b36",
-		"terminal.background": "#fff",
-		"terminalCursor.foreground": "#fff",
-		"terminal.foreground": "#002b36"
+		"terminalCursor.background": "#000338",
+		"terminal.background": "#fefeff",
+		"terminalCursor.foreground": "#fefeff",
+		"terminal.foreground": "#000338"
 	},
 	"tokenColors": [
 		{
@@ -63,7 +66,7 @@
 				"string.quoted.docstring"
 			],
 			"settings": {
-				"foreground": "#586e75",
+				"foreground": "#586174",
 				"fontStyle": "italic"
 			}
 		},
@@ -72,7 +75,7 @@
 				"storage.type.dev.natspec"
 			],
 			"settings": {
-				"foreground": "#586e75",
+				"foreground": "#586174",
 				"fontStyle": "bold italic"
 			}
 		},
@@ -81,7 +84,7 @@
 				"string"
 			],
 			"settings": {
-				"foreground": "#586e75"
+				"foreground": "#586174"
 			}
 		},
 		{
@@ -90,7 +93,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#000000",
+				"foreground": "#000338",
 				"fontStyle": "bold"
 			}
 		}
