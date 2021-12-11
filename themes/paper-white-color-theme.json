@@ -41,7 +41,7 @@
 		"sideBarSectionHeader.background": "#fefeff",
 		"list.activeSelectionBackground": "#e2e4f3",
 		"list.activeSelectionForeground": "#000338",
-		"list.focusOutline": "#fefeff",
+		"list.focusOutline": "#e2e4f3",
 		"list.warningForeground": "#f7c845",
 		"list.errorForeground": "#f74566",
 
